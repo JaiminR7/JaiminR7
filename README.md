@@ -38,7 +38,7 @@
 
 ##  About Me
 - 🚀 Currently building a **Snooker & Pool Tournament MERN project**  
-- 🌱 Learning advanced **Flutter**  
+- 🌱 Learning **Flutter**  
 - 👨‍💻 Passionate about **Full Stack Development**  
 - 🎮 Gamer + Tech Explorer 
 
