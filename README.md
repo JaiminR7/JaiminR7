@@ -19,10 +19,14 @@
   <img src="https://komarev.com/ghpvc/?username=JaiminR7&label=Profile+Views&color=ff3333&style=for-the-badge" />
 </p>
 
-
+---
+## Gif
+<p align="center">
+  <img src="https://i.gifer.com/9G8j.gif" alt="cyberpunk hacker gif" width="800" />
+</p>
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind,vscode" />
 </p>
@@ -30,14 +34,14 @@
 ---
 
 
-## 🐍 Cyber Snake
+## Cyber Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎯 About Me
+##  About Me
 - 🚀 Currently building a **Snooker & Pool Tournament MERN project**  
 - 🌱 Learning advanced **Flutter**  
 - 👨‍💻 Passionate about **Full Stack Development**  
