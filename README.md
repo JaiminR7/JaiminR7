@@ -19,12 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=JaiminR7&label=Profile+Views&color=ff3333&style=for-the-badge" />
 </p>
 
----
-
-<!-- Neon Cyber GIF -->
-<p align="center">
-  <img src="https://i.gifer.com/9G8j.gif" alt="cyberpunk hacker gif" width="800" />
-</p>
 
 ---
 
