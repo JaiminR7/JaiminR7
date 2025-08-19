@@ -22,8 +22,9 @@
 ---
 ## Gif
 <p align="center">
-  <img src="https://i.gifer.com/9G8j.gif" alt="cyberpunk hacker gif" width="800" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTN1ejRvMG41aDEyYWd1bHY3OHU4MnRobXg1MHY5dzVreTBnczJ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="cyberpunk hacker gif" width="800"/>
 </p>
+
 ---
 
 ## Tech Arsenal
